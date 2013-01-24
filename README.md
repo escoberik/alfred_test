@@ -1,6 +1,6 @@
 alfred_test
 ===========
 
-Just for testing
+A second testing
 
 Adding info just for testing
