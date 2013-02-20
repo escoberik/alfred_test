@@ -4,6 +4,7 @@ class Hello
 
     unless true
       dance
+      ':C'
     end
   end
 
