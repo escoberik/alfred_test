@@ -1,9 +1,9 @@
 class Bye
   def nonono
-    unless false
-      'jejeje'
-    else
+    if false
       'jojojo'
+    else
+      'jejeje'
     end
   end
 
