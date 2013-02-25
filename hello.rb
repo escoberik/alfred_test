@@ -1,5 +1,5 @@
 class Hello
-  def something     
+  def something
     p 'Goodby'
 
     unless true
