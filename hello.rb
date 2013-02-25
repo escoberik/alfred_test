@@ -1,6 +1,6 @@
 class Hello
   def something     
-    p 'Hello'
+    p 'Goodby'
 
     unless true
       dance
