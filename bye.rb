@@ -5,6 +5,6 @@ class Bye
     else
       'jojojo'
     end
-  end  
-     
+  end
+
 end
